@@ -1,37 +1,8 @@
 # Ignite Lab 01
 
-- NestJS
-- GraphQL
-- Apache Kafka
-- Next.js
-- Apollo Client (GraphQL)
+Nesse evento da Rocketseat, foi ensinado sobre: 
+* Nest, um framework para Node
+* Kafka, um serviço de mensageria
+* Graphql, um padrão de comunicação com APIs
 
-## Funcionalidades
-
-### Serviço de compras (purchases)
-
-- [Admin] Cadastro de produtos
-- [Admin] Listagem de produtos
-
-- [Auth] Listagem de compras
-
-- [Public] Compra de um produto
-- [Public] Lista produtos disponíveis p/ compra
-
-### Serviço de sala de aula (classroom)
-
-- [Admin] Listar matrículas
-- [Admin] Listar alunos
-- [Admin] Listar cursos
-- [Admin] Cadastrar cursos
-
-- [Auth] Listar cursos que tenho acesso
-- [Auth] Acessar conteúdo do curso
-
-----------------------------------------------------------------
-
-[ ] Importar telas do Tailwind
-[ ] URL de Logout no Auth0
-[ ] Query das minhas matrículas
-[ ] Query de produtos
-[ ] Mutation de realizar matrícula
+Eu fiz esse Fork porque na época em que eu estava acompanhando o evento, eu estava tendo dificuldade em fazer o código funcionar e não tinha muito tempo para acompanhar as aulas. Por isso, quis manter esse repositório com o código certinho caso eu queira uma referência sobre Nest ou Kafka no futuro. 
